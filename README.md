@@ -8,6 +8,12 @@
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Clauveira992)
 
+## Expertise
+
+<img align="left" alt="react" src="https://img.shields.io/badge/godotengine-478CBF?style=for-the-badge&logo=unity&logoColor=white" />
+<br>
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
 
 <!--
 - 🔭 I’m currently working on ...
@@ -18,4 +24,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/iuricode/README-template/blob/main/badges/badges.md
 -->
