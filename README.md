@@ -8,10 +8,11 @@
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Clauveira992)
 <br>
-## Expertise
 
+## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-<br>
+<img align="left" alt="react" src="	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<br><br>
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 
