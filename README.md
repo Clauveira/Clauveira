@@ -15,6 +15,7 @@
 <a href="#"><img align="left" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <a href="#"><img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
 <a href="#"><img align="left" alt="type-script" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<br><br>
 
 ## Wishlist my game on Steam: Magnetic Projectiles
 [<img align="left" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://store.steampowered.com/app/2025250/Magnetic_Projectiles/)
